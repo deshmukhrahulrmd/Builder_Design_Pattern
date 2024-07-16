@@ -4,7 +4,7 @@ public class DriverClass {
 
     /* *
     *
-    * //TODO
+    * //NOTE
     * Injecting one class object into another by using setter method() is known as Setter Injection.
     *
     *  */

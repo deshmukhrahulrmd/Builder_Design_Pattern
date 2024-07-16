@@ -3,7 +3,7 @@ package builderDesignPattern;
 public class BillCollector {
 
     /*
-    * //TODO
+    * //NOTE
     * Here BillCollector having interface ref. variable.
     * Interface having multiple implementations classes.
     * We have to decide any implementation class at runtime.
