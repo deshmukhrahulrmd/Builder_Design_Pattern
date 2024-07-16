@@ -1,5 +1,7 @@
 ### IntelliJ IDEA ###
 out/
+.idea
+Design_Pattern.iml
 !**/src/main/**/out/
 !**/src/test/**/out/
 
